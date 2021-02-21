@@ -3,3 +3,6 @@
 /lib/
 .bsb.lock
 .merlin
+
+# Local Netlify folder
+.netlify
