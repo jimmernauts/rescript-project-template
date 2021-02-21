@@ -3,6 +3,6 @@
 /lib/
 .bsb.lock
 .merlin
-
+.cache
 # Local Netlify folder
 .netlify
