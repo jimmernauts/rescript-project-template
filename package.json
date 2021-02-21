@@ -15,6 +15,7 @@
     "bs-platform": "*"
   },
   "dependencies": {
-    "@rescript/react": "^0.10.1"
+    "@rescript/react": "^0.10.1",
+    "netlify-cli": "^3.8.5"
   }
 }
